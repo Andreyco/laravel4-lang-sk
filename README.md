@@ -2,7 +2,7 @@
 
 Balíček s lokalizovanými jazykovými súbormi pre Laravel 4.x
 
-**Preložené sú tieto súbory:  **
+**Preložené sú tieto súbory:**
 
 - pagination.php
 - reminders.php
